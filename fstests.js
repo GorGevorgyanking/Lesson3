@@ -5,4 +5,4 @@ var obj = {
     "tumo_student":true
 }
 
-module.exports = gitSON.stringify(obj);
+module.exports = JSON.stringify(obj);
